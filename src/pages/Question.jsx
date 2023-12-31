@@ -63,7 +63,7 @@ function Question() {
   const [selectedAns, setselectedAns] = useState([]);
   const [rightAns, setRightAns] = useState([]);
 
-  const [initialSeconds, setInitialSeconds] = useState(3);
+  const [initialSeconds, setInitialSeconds] = useState(20);
 
   const [jsonData, setJsonData] = useState(
     category == "general"
@@ -118,7 +118,7 @@ function Question() {
 
     setRightAns((prev) => [...prev, jsonData[idArray[currentId]].rightAns]);
 
-    if (currentId === 6) {
+    if (currentId === 9) {
       // alert("Congratulation! You have completed the test");
       localStorage.setItem(
         "rightAns",

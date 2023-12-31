@@ -33,7 +33,7 @@ function Home() {
     <div className=" flex flex-col items-center justify-center  h-screen gap-6 ">
       {showAboutModal && <About setModal={setShowAboutModal} />}
 
-      {/* <img src={komiHome} className=" fixed bottom-0 right-0" /> */}
+      <img src={komiHome} className=" fixed bottom-0 right-0" />
       {/* <div className=" flex items-center justify-center gap-2 right-4">
         {" "}
         <img src={bulb} className=" w-[16rem] -rotate-[35deg]" />
