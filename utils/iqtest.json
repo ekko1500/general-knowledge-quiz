@@ -139,7 +139,7 @@
     "question": "The missing numbers for ______, 805, 815, 825 is",
     "options": ["785", "790", "795", "800"],
     "rightAns": "795",
-        "category": "math",
+    "category": "math",
     "day": "10"
   },
   {
@@ -267,7 +267,7 @@
     "category": "Math",
     "day": "1"
   },
-  ,
+
   {
     "id": "32",
     "question": "Is your mother ________ home?",
