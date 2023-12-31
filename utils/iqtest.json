@@ -3,7 +3,7 @@
     "id": "1",
     "question": "What is the place value of the 9 in the number of 195?",
     "options": ["ones", "tens", "hundreds", "thousands"],
-    "rightAns": "hundreds",
+    "rightAns": "tens",
     "category": "math",
     "day": "10"
   },
@@ -138,8 +138,8 @@
     "id": "16",
     "question": "The missing numbers for ______, 805, 815, 825 is",
     "options": ["785", "790", "795", "800"],
-    "rightAns": "800",
-    "category": "math",
+    "rightAns": "795",
+        "category": "math",
     "day": "10"
   },
   {
@@ -154,7 +154,7 @@
     "id": "18",
     "question": "The pattern rule for 243, 81, 27, 9 is",
     "options": ["Multiply 4", "Multiply 2", "Add 5", "Add 7"],
-    "rightAns": "Multiply 3",
+    "rightAns": "Multiply 2",
     "category": "math",
     "day": "10"
   },
@@ -261,137 +261,106 @@
   },
   {
     "id": "31",
-    "question": "Which part of a plant is in the soil?",
-    "options": ["Roots", "Leaves", "Flowers", "Fruits"],
-    "rightAns": "Roots",
+    "question": "Thaw Thaw loves climbing ________trees",
+    "options": ["along", "over", "up", "at"],
+    "rightAns": "up",
+    "category": "Math",
+    "day": "1"
+  },
+  ,
+  {
+    "id": "32",
+    "question": "Is your mother ________ home?",
+    "options": ["in", "at", "on", "within"],
+    "rightAns": "at",
     "category": "Math",
     "day": "1"
   },
   {
-    "id": "32",
-    "question": "What do birds use to fly?",
-    "options": ["Tail", "Wings", "Head", "Legs"],
-    "rightAns": "Wings",
+    "id": "33",
+    "question": "Vidsit sat ________ a tree.",
+    "options": ["on", "under", "for", "at"],
+    "rightAns": "under",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "34",
+    "question": "Humpty Dumpty sat _________ the wall.",
+    "options": ["in", "for", "by", "on"],
+    "rightAns": "on",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "35",
+    "question": "We can’t live _______ water.",
+    "options": ["with", "within", "without", "wear"],
+    "rightAns": "without",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "36",
+    "question": "The boys ________ their mother yesterday.",
+    "options": ["help", "helps", "helped", "helping"],
+    "rightAns": "helped",
     "category": "Math",
     "day": "1"
   },
   {
     "id": "37",
-    "question": "How many legs does a snake have?",
-    "options": ["2", "4", "0", "6"],
-    "rightAns": "0",
+    "question": "Alex paints very _______.",
+    "options": ["best", "better", "well", "good"],
+    "rightAns": "good",
     "category": "Math",
     "day": "1"
   },
   {
     "id": "38",
-    "question": "Herobrine Jumped _________ the rock _________ the water.",
-    "options": ["off/ into", "under/ across", "into/ down", "through/ across"],
-    "rightAns": "a. off/ into",
+    "question": "How ______ books do you have in your bag?",
+    "options": ["any", "many", "some", "much"],
+    "rightAns": "many",
     "category": "Math",
     "day": "1"
   },
   {
     "id": "39",
-    "question": "The thief jumped _________ the fence and tried to enter the house.",
-    "options": ["over", "across", "through", "intoover", "up", "at"],
-    "rightAns": "a. over",
+    "question": "Last night, my friend _______ me.",
+    "options": ["visit", "visits", "visited", "visiting"],
+    "rightAns": "visited",
     "category": "Math",
     "day": "1"
   },
   {
     "id": "40",
-    "question": "Is your mother ________ home?",
-    "options": ["in", "at", "on", "within"],
-    "rightAns": "a. in",
+    "question": "Count these numbers.",
+    "options": ["Statement", "Question", "Command", "Exclamation"],
+    "rightAns": "Command",
     "category": "Math",
     "day": "1"
   },
   {
     "id": "41",
-    "question": "Vidsit sat ________ a tree.",
-    "options": ["on", "under", "for", "at"],
-    "rightAns": "a. on",
+    "question": "How many birds do you see?",
+    "options": ["Statement", "Question", "Command", "Exclamation"],
+    "rightAns": "Question",
     "category": "Math",
     "day": "1"
   },
   {
     "id": "42",
-    "question": "Humpty Dumpty sat _________ the wall.",
-    "options": ["in", "for", "by", "on"],
-    "rightAns": "d. on",
+    "question": "January is the 1st month of the year.",
+    "options": ["Statement", "Question", "Command", "Exclamation"],
+    "rightAns": "Statement",
     "category": "Math",
     "day": "1"
   },
   {
     "id": "43",
-    "question": "We can’t live _______ water.",
-    "options": ["with", "within", "without", "wear"],
-    "rightAns": "c. without",
-    "category": "Math",
-    "day": "1"
-  },
-  {
-    "id": "44",
-    "question": "The boys ________ their mother yesterday.",
-    "options": ["help", "helps", "helped", "helping"],
-    "rightAns": "c. helped",
-    "category": "Math",
-    "day": "1"
-  },
-  {
-    "id": "45",
-    "question": "Alex paints very _______.",
-    "options": ["best", "better", "well", "good"],
-    "rightAns": "c. well",
-    "category": "Math",
-    "day": "1"
-  },
-  {
-    "id": "46",
-    "question": "How ______ books do you have in your bag?",
-    "options": ["any", "many", "some", "much"],
-    "rightAns": "b. many",
-    "category": "Math",
-    "day": "1"
-  },
-  {
-    "id": "47",
-    "question": "Last night, my friend _______ me.",
-    "options": ["visit", "visits", "visited", "visiting"],
-    "rightAns": "c. visited",
-    "category": "Math",
-    "day": "1"
-  },
-  {
-    "id": "48",
-    "question": "Count these numbers.",
-    "options": ["Statement", "Question", "Command", "Exclamation"],
-    "rightAns": "c. Command",
-    "category": "Math",
-    "day": "1"
-  },
-  {
-    "id": "49",
-    "question": "How many birds do you see?",
-    "options": ["Statement", "Question", "Command", "Exclamation"],
-    "rightAns": "b. Question",
-    "category": "Math",
-    "day": "1"
-  },
-  {
-    "id": "50",
-    "question": "January is the 1st month of the year.",
-    "options": ["Statement", "Question", "Command", "Exclamation"],
-    "rightAns": "a. Statement",
-    "category": "Math",
-    "day": "1"
-  },
-  {
-    "id": "51",
     "question": "I’m so excited!",
     "options": ["Statement", "Question", "Command", "Exclamation"],
-    "rightAns": "d. Exclamation",
+    "rightAns": "Exclamation",
     "category": "Math",
     "day": "1"
   }

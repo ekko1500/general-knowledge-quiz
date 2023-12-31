@@ -29,7 +29,7 @@
       "Keyboard, Printer, Light Pen",
       "Joystick, Microphone, Scanner"
     ],
-    "rightAns": "Keyboard, Printer, Light Pen",
+    "rightAns": "Joystick, Microphone, Scanner",
     "category": "computer",
     "day": "1"
   },
@@ -514,7 +514,7 @@
       "To extend the functionality of computer hardware",
       "To help users find information and images related to computer hardware"
     ],
-    "rightAns": "To extend the functionality of computer hardware",
+    "rightAns": "To help users find information and images related to computer hardware",
     "category": "computer",
     "day": "5"
   },
@@ -590,7 +590,7 @@
     "id": "55",
     "question": "What is the number of read write heads in the drive for a 9 track magnetic tape?",
     "options": ["9", "16", "18", "27"],
-    "rightAns": "9",
+    "rightAns": "16",
     "category": "computer",
     "day": "5"
   },
@@ -876,7 +876,7 @@
     "id": "82",
     "question": "Which key is used to erase data from the computer’s memory and characters on the screen?",
     "options": ["Backspace", "Delete", "Shift + Alt", "Both a and b"],
-    "rightAns": "Both a and b",
+    "rightAns": "Delete",
     "category": "computer",
     "day": "8"
   },
@@ -884,7 +884,7 @@
     "id": "83",
     "question": "The first computer architecture was designed in",
     "options": ["1970", "1985", "1968", "1975"],
-    "rightAns": "1968",
+    "rightAns": "1970",
     "category": "computer",
     "day": "8"
   },
