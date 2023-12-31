@@ -25,40 +25,39 @@ function Category() {
   }, []);
 
   return (
-    <div>
-      <div className=" relative flex items-center justify-start  h-screen flex-col ">
-        <div className=" flex flex-col w-11/12 md:w-7/12 lg:w-10/12 items-center justify-center h-[7rem] md:h-[8rem]  lg:h-[15rem]  my-7">
-          {/* <h1 className="  text-[4rem] text-white font-bold ">Category</h1> */}
-          <Image fluid src={categoryTitle} />
-        </div>
+    <div className=" relative flex items-center justify-center  h-screen flex-col">
+      <div className=" flex flex-col w-11/12 md:w-7/12 lg:w-6/12 items-center justify-center h-[7rem] md:h-[8rem]  lg:h-[15rem]  my-7">
+        {/* <h1 className="  text-[4rem] text-white font-bold ">Category</h1> */}
+        <Image fluid src={categoryTitle} className=" h-[" />
+      </div>
 
-        <div className=" flex flex-col items-center justify-center gap-1 w-[14rem] lg:w-[24rem] h-[21rem] lg:h-[35rem] z-10">
-          <Button4
-            onFunction={() => {
-              onSubmit("general");
-            }}
-            title="General"
-          />
+      <div className=" flex flex-col items-center justify-center gap-1 w-[14rem] lg:w-[24rem] h-[21rem] lg:h-[35rem] z-10">
+        <Button4
+          onFunction={() => {
+            onSubmit("general");
+          }}
+          title="General"
+        />
+        <Button4
+          onFunction={() => {
+            onSubmit("iqtest");
+          }}
+          title={"Education"}
+        />
 
-          <Button4
-            onFunction={() => {
-              onSubmit("computer");
-            }}
-            title={"Computer"}
-          />
-          <Button4
-            onFunction={() => {
-              onSubmit("iqtest");
-            }}
-            title={"IQ Test"}
-          />
-          <Button3
-            onFunction={() => {
-              navigate("/");
-            }}
-            title={"Back"}
-          />
-        </div>
+        <Button4
+          onFunction={() => {
+            onSubmit("computer");
+          }}
+          title={"Hardware"}
+        />
+
+        <Button3
+          onFunction={() => {
+            navigate("/");
+          }}
+          title={"Back"}
+        />
       </div>
     </div>
   );

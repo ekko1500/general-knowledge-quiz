@@ -35,7 +35,7 @@ import { useScore } from "../hooks/useScore";
 const keys = ["Play Again", "Leave"];
 
 function Score() {
-  const { score } = useScore();
+  const { score, setScore, category } = useScore();
 
   const [rightAns, setrightAns] = useState(
     JSON.parse(localStorage.getItem("rightAns"))
@@ -65,7 +65,8 @@ function Score() {
   };
 
   const onPlayAgain = () => {
-    navigate("/quizs/1");
+    setScore(0);
+    navigate(`/playing/${category}`);
   };
 
   useEffect(() => {}, []);
@@ -82,7 +83,7 @@ function Score() {
   }
 
   return (
-    <div className=" gap-4">
+    <div className=" gap-4 ">
       <div className=" w-full  flex flex-col items-center justify-start">
         <br />
         <div className=" absolute flex items-center justify-center ">
@@ -97,7 +98,7 @@ function Score() {
         {/* <h1 className=" text-[2rem] font-bold text-white bg-[#7958AF] px-6">
         Congratulation!
       </h1> */}
-        <img src={congrats} className=" w-[40%]" />
+        <img src={congrats} className=" w-[80%] lg:w-[40%]" />
 
         <div className=" flex w-[30%] h-[30%] items-end justify-center ">
           {score > 2 ? (
@@ -110,28 +111,28 @@ function Score() {
             <img src={stars0} className=" h-full " />
           )}
         </div>
-        <h1 className=" text-[1.5rem] font-bold text-[#7958AF] mt-1">
+        <h1 className=" text-[1rem] lg:text-[1.5rem] font-bold text-[#7958AF] mt-1">
           Your Score
         </h1>
 
         <div className=" absolute z-[-1]   top-[17rem]  flex items-center justify-center">
           {/* this is score bg */}
-          <img src={scoreBg} className=" w-[67rem]" />
+          {/* <img src={scoreBg} className=" w-[30rem] lg:w-[67rem]" /> */}
         </div>
 
         <div className=" relative flex flex-col items-center justify-start">
           <img src={score2} className="  w-[50%]" />
-          <h1 className=" absolute text-[2.9rem] font-bold text-white">
-            {score} out of 10
+          <h1 className=" absolute text-[1.5rem] lg:text-[2.9rem] font-bold text-white">
+            {score} out of 20
           </h1>
         </div>
-        <h1 className=" flex flex-col items-center justify-center  text-[4rem]  h-[5rem]  text-[#7958AF] font-bold">
-          {score}0%
+        <h1 className=" flex flex-col items-center justify-center  text-[2rem] lg:text-[4rem]  h-[5rem]  text-[#7958AF] font-bold">
+          {((score / 20) * 100).toFixed(2)}%
         </h1>
 
         <br />
         {/* button bar */}
-        <div className=" flex  h- w-5/12 lg:w-1/3 gap-3  items-center justify-between ">
+        <div className=" flex   w-1/2 md:w-5/12  lg:w-1/3 gap-3  bg-blue-gray-200 items-center justify-between ">
           {keys.map((key, index) => (
             // <div
             //   key={index}
@@ -162,7 +163,7 @@ function Score() {
             //   <img className=" absolute" src={PurpleImage} />
             //   <h1 className=" z-[1] text-[3rem] font-bold">{key}</h1>
             // </div>
-            <div key={index} className=" w-[16rem] py-1">
+            <div key={index} className=" w-[6rem] lg:w-[16rem] py-1">
               <Button3
                 title={key}
                 onFunction={() => (key == "Leave" ? onLeave() : onPlayAgain())}

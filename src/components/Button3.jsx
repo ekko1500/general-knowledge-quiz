@@ -21,7 +21,7 @@ const Button3 = ({ title, onFunction, name }) => {
       <div className=" px-10 z-10 flex w-full justify-between">
         <h1 className=" font-bold z-10 text-white text-[2rem]">{name}</h1>
         <div className=" flex w-full items-center justify-center">
-          <h1 className=" font-bold z-10 text-white text-[1.5rem]">{title}</h1>
+          <h1 className=" font-bold z-10 text-white text-[2rem]">{title}</h1>
         </div>
       </div>
     </div>

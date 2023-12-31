@@ -31,7 +31,7 @@ function CounterLarge({ setComplete3s }) {
           <h1 className=" text-[22rem]">{count - 1}</h1>
         </>
       )}
-      <img src={komiMoti} className=" absolute bottom-0 left-5 h-[11rem]" />
+      {/* <img src={komiMoti} className=" absolute bottom-0 left-5 h-[11rem]" /> */}
     </div>
   );
 }

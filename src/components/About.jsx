@@ -14,8 +14,11 @@ function About({ setModal }) {
         <div className=" w-full flex items-center justify-center relative">
           <img src={aboutBg} className=" w-full " />
           <div className=" w-full h-full p-[6rem] absolute items-center justify-center">
-            <h1 className=" text-[2rem] font-bold text-[#7958AF]">
-              This is about text.{" "}
+            <h1 className=" text-[1.4rem] font-bold text-[#7958AF]">
+              Welcome to our quiz game! Explore categories like General
+              Knowledge, Critical Thinking, and Hardware. Enjoy a quick and
+              engaging quiz experience. Gear up, the challenge awaits! Are you
+              ready to become the ultimate quiz champion? Let the games begin!
             </h1>
           </div>
         </div>

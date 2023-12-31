@@ -37,7 +37,7 @@ function Playing() {
     startingCountDown();
   };
   const onBack = () => {
-    console.log("back");
+    window.location.href = "/";
   };
 
   const startingCountDown = () => {

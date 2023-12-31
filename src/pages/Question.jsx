@@ -32,11 +32,20 @@ import useCountdown from "../hooks/useCountdown";
 import BtnOption from "../components/BtnOption";
 import Image from "react-bootstrap/Image";
 
-function generateUniqueRandomArray() {
+let noOfQuestion = 20;
+function generateUniqueRandomArray(category) {
   const uniqueRandomArray = [];
+  let j = 50;
+  if (category == "general") {
+    j = 116;
+  } else if (category == "computer") {
+    j = 91;
+  } else {
+    j = 42;
+  }
 
-  while (uniqueRandomArray.length < 10) {
-    const randomNumber = Math.floor(Math.random() * 20);
+  while (uniqueRandomArray.length < noOfQuestion) {
+    const randomNumber = Math.floor(Math.random() * j);
 
     if (!uniqueRandomArray.includes(randomNumber)) {
       uniqueRandomArray.push(randomNumber);
@@ -55,7 +64,7 @@ function Question() {
   const [correct, setCorrect] = useState(false);
 
   const [currentId, setCurrentId] = useState(0);
-  const [idArray, setIdArray] = useState(generateUniqueRandomArray());
+  const [idArray, setIdArray] = useState(generateUniqueRandomArray(category));
   // console.log(idArray);
   const [data, setData] = useState();
   const [timeup, setTimeup] = useState(false);
@@ -118,7 +127,7 @@ function Question() {
 
     setRightAns((prev) => [...prev, jsonData[idArray[currentId]].rightAns]);
 
-    if (currentId === 9) {
+    if (currentId === noOfQuestion - 1) {
       // alert("Congratulation! You have completed the test");
       localStorage.setItem(
         "rightAns",
@@ -131,14 +140,16 @@ function Question() {
       navigate("/score");
     }
 
-    if (_selectedAns == "...") {
+    if (_selectedAns === "...") {
       // Use a setTimeout inside the onNext function
       setTimeout(() => {
         setCurrentId((prevId) => prevId + 1);
+        console.log("time up and add id");
         setTimeup(false);
       }, 1000);
     } else {
       setCurrentId((prevId) => prevId + 1);
+      console.log("select option and add i");
       setTimeup(false);
     }
 
@@ -147,7 +158,7 @@ function Question() {
 
   useEffect(() => {
     console.log("currentid change.");
-  }, [currentId]);
+  }, []);
 
   /* ----------------------------- handle back key ---------------------------- */
   useEffect(() => {
