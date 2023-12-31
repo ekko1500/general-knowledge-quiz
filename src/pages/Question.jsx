@@ -63,7 +63,7 @@ function Question() {
   const [selectedAns, setselectedAns] = useState([]);
   const [rightAns, setRightAns] = useState([]);
 
-  const [initialSeconds, setInitialSeconds] = useState(100);
+  const [initialSeconds, setInitialSeconds] = useState(3);
 
   const [jsonData, setJsonData] = useState(
     category == "general"
@@ -179,15 +179,15 @@ function Question() {
   if (timeup) {
     return (
       <div className=" h-screen flex flex-col items-center  justify-center ">
-        <div className=" flex flex-col items-center justify-end h-[43rem] w-1/2 bg-white">
-          <div className=" h-[50%] flex items-end">
+        <div className=" flex flex-col items-center justify-end h-[30rem] lg:h-[43rem] w-[90%] lg:w-1/2 bg-white">
+          <div className=" h-[95%] lg:h-[50%] flex items-end">
             {/* <h1 className=" text-[6rem] font-bold text-[#7958AF]">
               Time Up !!!
             </h1> */}
 
-            <img src={timeupImg2} className="h-[60%]" />
+            <img src={timeupImg2} className="h-[60%] w-auto" />
           </div>
-          <img src={timeupImg} className="h-[70%]" />
+          <img src={timeupImg} className="h-[70%] w-auto" />
         </div>
       </div>
     );
@@ -222,7 +222,7 @@ function Question() {
       <div className=" flex w-full  flex-col items-center justify-center">
         {/* showing question and answer */}
         {/* For dispalying question */}
-        <div className="flex relative h-[7rem] md:h-[14.5rem]  lg:h-[23rem] items-start justify-center   text-center w-[19rem] md:w-[44rem] lg:w-5/6 mt-[1rem] my-[2rem]  text-[#7958AF] z-[-3]  bg-blue-gray-300 ">
+        <div className="flex relative h-[7rem] md:h-[14.5rem]  lg:h-[23rem] items-start justify-center   text-center w-[19rem] md:w-[44rem] lg:w-5/6 mt-[1rem] my-[2rem]  text-[#7958AF] z-[-3]   ">
           <Image
             fluid
             className=" absolute h-full w-full object-contain z-[-1]"
@@ -241,12 +241,12 @@ function Question() {
         <div className="flex w-[100%] text-center  items-center justify-center  mb-5">
           {/* <h1 className=" text-[4rem] w-full text-start py-3">Ans : </h1> */}
 
-          <div className="  grid grid-cols-2 gap-[1rem] lg:gap-[5rem] p-2 w-[75%] lg:w-[40%]  items-center justify-center bg-blue-gray-400 ">
+          <div className="  grid grid-cols-2 gap-[1rem] lg:gap-[5rem] p-2 w-[75%] lg:w-[40%]  items-center justify-center  ">
             <>
               {jsonData[idArray[currentId]]?.options?.map((i, index) => (
                 <div
                   key={index}
-                  className=" flex items-center justify-center lg:w-full h-[3rem] md:h-[5rem] lg:h-[6rem] bg-blue-gray-200 m-0 md:m-2 lg:m-0"
+                  className=" flex items-center justify-center lg:w-full h-[3rem] md:h-[5rem] lg:h-[6rem]  m-0 md:m-2 lg:m-0"
                 >
                   <BtnOption
                     onFunction={() => onNext(i)}

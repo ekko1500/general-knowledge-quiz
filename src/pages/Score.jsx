@@ -22,6 +22,10 @@ import stars3 from "../assets/images/3stars.png";
 import bgWhite from "../assets/images/bg-white.png";
 import congrats from "../assets/images/congrats.png";
 import history from "../assets/images/history.png";
+import rightImg from "../assets/images/right.png";
+import wrongImg from "../assets/images/wrong.png";
+
+import { Player } from "@lottiefiles/react-lottie-player";
 
 import Button3 from "../components/Button3";
 
@@ -81,6 +85,15 @@ function Score() {
     <div className=" gap-4">
       <div className=" w-full  flex flex-col items-center justify-start">
         <br />
+        <div className=" absolute flex items-center justify-center ">
+          <Player
+            src="https://lottie.host/e8786a9b-b42a-458c-b3e5-2747d797dac8/mSjhQzgUDv.json"
+            className="player "
+            loop
+            autoplay
+          />
+        </div>
+
         {/* <h1 className=" text-[2rem] font-bold text-white bg-[#7958AF] px-6">
         Congratulation!
       </h1> */}
@@ -168,19 +181,27 @@ function Score() {
               <tbody>
                 {selectedAns.map((i, index) => (
                   <tr key={index} className=" h-[3rem]">
-                    <th>
+                    <th className=" text-start">
                       <h1 className=" text-[#7958AF] font-bold text-[1.5rem]">
                         Question No.{index + 1}
                       </h1>
                     </th>
 
                     <th>
-                      <h1 className=" text-[#7958AF] font-bold text-[1.5rem]">
+                      <div className=" text-[#7958AF] font-bold text-[1.5rem] ">
                         {" "}
-                        {selectedAns[index] == rightAns[index]
-                          ? "Right"
-                          : "Wrong"}
-                      </h1>
+                        {selectedAns[index] == rightAns[index] ? (
+                          <img
+                            src={rightImg}
+                            className="h-[2rem] object-contain"
+                          />
+                        ) : (
+                          <img
+                            className=" h-[2rem] object-contain"
+                            src={wrongImg}
+                          />
+                        )}
+                      </div>
                     </th>
                   </tr>
                 ))}
