@@ -1,0 +1,398 @@
+[
+  {
+    "id": "1",
+    "question": "What is the place value of the 9 in the number of 195?",
+    "options": ["ones", "tens", "hundreds", "thousands"],
+    "rightAns": "hundreds",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "2",
+    "question": "Correct symbol to make the statement of 19 ______ 17 is",
+    "options": ["+", "=", ">", "<"],
+    "rightAns": ">",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "3",
+    "question": "Which number sentence is true?",
+    "options": ["459 < 475", "459 > 475", "459 > 459", "459 < 459"],
+    "rightAns": "459 < 475",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "4",
+    "question": "If 1 hour = 60 minutes, then 12 hours = ______.",
+    "options": ["720 minutes", "720 seconds", "720 hours", "270 minutes"],
+    "rightAns": "720 minutes",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "5",
+    "question": "Subtract: 4 hour 40 minutes – 3 hour 30 minutes",
+    "options": [
+      "1 hour 10 minutes",
+      "1 hour 30 minutes",
+      "2 hours 10 minutes",
+      "2 hours 20 minutes"
+    ],
+    "rightAns": "1 hour 10 minutes",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "6",
+    "question": "Convert 48 hours to days",
+    "options": ["1 day", "2 days", "3 days", "4 days"],
+    "rightAns": "2 days",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "7",
+    "question": "Convert 60 months to years",
+    "options": ["2 years", "3 years", "4 years", "5 years"],
+    "rightAns": "5 years",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "8",
+    "question": "It is a smaller unit than centimeters.",
+    "options": ["millimeters", "meters", "kilometers", "inches"],
+    "rightAns": "millimeters",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "9",
+    "question": "How many centimeters are there in 1 meter?",
+    "options": [
+      "10 centimeters",
+      "100 centimeters",
+      "1000 centimeters",
+      "10000 centimeters"
+    ],
+    "rightAns": "100 centimeters",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "10",
+    "question": "How many meters are there in 5,000 centimeters?",
+    "options": ["5 meters", "50 meters", "500 meters", "5000 meters"],
+    "rightAns": "50 meters",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "11",
+    "question": "How do we write 30 in words?",
+    "options": ["thirteen", "thirty", "therty", "thirtty"],
+    "rightAns": "thirty",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "12",
+    "question": "Which length is the longest?",
+    "options": [
+      "1 meter",
+      "10 centimeters",
+      "30 centimeters",
+      "50 centimeters"
+    ],
+    "rightAns": "1 meter",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "13",
+    "question": "Which can be the heaviest?",
+    "options": ["A tomato", "A mango", "A potato", "A watermelon"],
+    "rightAns": "A watermelon",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "14",
+    "question": "Which of the following will need a bigger bag to carry?",
+    "options": ["1kg popcorn", "1kg sugar", "1kg salt", "1kg potato"],
+    "rightAns": "1kg popcorn",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "15",
+    "question": "What does the long hand point to on a clock?",
+    "options": ["minute", "hour", "day", "week"],
+    "rightAns": "minute",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "16",
+    "question": "The missing numbers for ______, 805, 815, 825 is",
+    "options": ["785", "790", "795", "800"],
+    "rightAns": "800",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "17",
+    "question": "The pattern rule for 9, 16, 23, 30 is",
+    "options": ["Add 5", "Add 7", "Subtract 5", "Subtract 7"],
+    "rightAns": "Add 7",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "18",
+    "question": "The pattern rule for 243, 81, 27, 9 is",
+    "options": ["Multiply 4", "Multiply 2", "Add 5", "Add 7"],
+    "rightAns": "Multiply 3",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "19",
+    "question": "Which of the following numbers is even?",
+    "options": ["5", "6", "9", "13"],
+    "rightAns": "6",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "20",
+    "question": "After the number 182 is",
+    "options": ["180", "181", "183", "184"],
+    "rightAns": "183",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "21",
+    "question": "36, 32, 28, 24, 20",
+    "options": ["Add 10", "Divide 2", "Subtract 2", "Subtract 4"],
+    "rightAns": "Subtract 4",
+    "category": "math",
+    "day": "10"
+  },
+  {
+    "id": "22",
+    "question": "What do plants need to live and to grow?",
+    "options": [
+      "Leaf, flower and roots",
+      "Sunlight, water, air and soil",
+      "Rice, chicken and soup",
+      "Bread, milk and butter"
+    ],
+    "rightAns": "Sunlight, water, air and soil",
+    "category": "science",
+    "day": "10"
+  },
+  {
+    "id": "23",
+    "question": "Which is not part of a plant?",
+    "options": ["Leaf", "Root", "Flower", "Leg"],
+    "rightAns": "Leg",
+    "category": "science",
+    "day": "10"
+  },
+  {
+    "id": "24",
+    "question": "Why do we use plants?",
+    "options": ["For food", "Playing", "Cleaning", "Throwing"],
+    "rightAns": "For food",
+    "category": "science",
+    "day": "10"
+  },
+  {
+    "id": "25",
+    "question": "What do we use to build boats and houses?",
+    "options": ["Fruits", "Flowers", "Leaves", "Trees"],
+    "rightAns": "Trees",
+    "category": "science",
+    "day": "10"
+  },
+  {
+    "id": "26",
+    "question": "Which part of a plant is in the soil?",
+    "options": ["Roots", "Leaves", "Flowers", "Fruits"],
+    "rightAns": "Roots",
+    "category": "science",
+    "day": "10"
+  },
+  {
+    "id": "27",
+    "question": "What do birds use to fly?",
+    "options": ["Tail", "Wings", "Head", "Legs"],
+    "rightAns": "Wings",
+    "category": "science",
+    "day": "10"
+  },
+  {
+    "id": "28",
+    "question": "How many legs does a snake have?",
+    "options": ["2", "4", "0", "6"],
+    "rightAns": "0",
+    "category": "science",
+    "day": "10"
+  },
+  {
+    "id": "29",
+    "question": "Herobrine jumped _________ the rock _________ the water.",
+    "options": ["off/into", "under/across", "into/down", "through/across"],
+    "rightAns": "off/into",
+    "category": "language",
+    "day": "10"
+  },
+  {
+    "id": "30",
+    "question": "The thief jumped _________ the fence and tried to enter the house.",
+    "options": ["over", "across", "through", "into"],
+    "rightAns": "over",
+    "category": "language",
+    "day": "10"
+  },
+  {
+    "id": "31",
+    "question": "Which part of a plant is in the soil?",
+    "options": ["Roots", "Leaves", "Flowers", "Fruits"],
+    "rightAns": "Roots",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "32",
+    "question": "What do birds use to fly?",
+    "options": ["Tail", "Wings", "Head", "Legs"],
+    "rightAns": "Wings",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "37",
+    "question": "How many legs does a snake have?",
+    "options": ["2", "4", "0", "6"],
+    "rightAns": "0",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "38",
+    "question": "Herobrine Jumped _________ the rock _________ the water.",
+    "options": ["off/ into", "under/ across", "into/ down", "through/ across"],
+    "rightAns": "a. off/ into",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "39",
+    "question": "The thief jumped _________ the fence and tried to enter the house.",
+    "options": ["over", "across", "through", "intoover", "up", "at"],
+    "rightAns": "a. over",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "40",
+    "question": "Is your mother ________ home?",
+    "options": ["in", "at", "on", "within"],
+    "rightAns": "a. in",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "41",
+    "question": "Vidsit sat ________ a tree.",
+    "options": ["on", "under", "for", "at"],
+    "rightAns": "a. on",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "42",
+    "question": "Humpty Dumpty sat _________ the wall.",
+    "options": ["in", "for", "by", "on"],
+    "rightAns": "d. on",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "43",
+    "question": "We can’t live _______ water.",
+    "options": ["with", "within", "without", "wear"],
+    "rightAns": "c. without",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "44",
+    "question": "The boys ________ their mother yesterday.",
+    "options": ["help", "helps", "helped", "helping"],
+    "rightAns": "c. helped",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "45",
+    "question": "Alex paints very _______.",
+    "options": ["best", "better", "well", "good"],
+    "rightAns": "c. well",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "46",
+    "question": "How ______ books do you have in your bag?",
+    "options": ["any", "many", "some", "much"],
+    "rightAns": "b. many",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "47",
+    "question": "Last night, my friend _______ me.",
+    "options": ["visit", "visits", "visited", "visiting"],
+    "rightAns": "c. visited",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "48",
+    "question": "Count these numbers.",
+    "options": ["Statement", "Question", "Command", "Exclamation"],
+    "rightAns": "c. Command",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "49",
+    "question": "How many birds do you see?",
+    "options": ["Statement", "Question", "Command", "Exclamation"],
+    "rightAns": "b. Question",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "50",
+    "question": "January is the 1st month of the year.",
+    "options": ["Statement", "Question", "Command", "Exclamation"],
+    "rightAns": "a. Statement",
+    "category": "Math",
+    "day": "1"
+  },
+  {
+    "id": "51",
+    "question": "I’m so excited!",
+    "options": ["Statement", "Question", "Command", "Exclamation"],
+    "rightAns": "d. Exclamation",
+    "category": "Math",
+    "day": "1"
+  }
+]

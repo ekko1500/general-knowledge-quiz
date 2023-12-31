@@ -1,0 +1,965 @@
+[
+  {
+    "id": "1",
+    "question": "Which one of the following is not an output device?",
+    "options": ["Speaker", "Headphone", "Projector", "Microphone"],
+    "rightAns": "Microphone",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "2",
+    "question": "What is the main purpose of the 'BIOS' in a computer?",
+    "options": [
+      "Providing internet connectivity",
+      "Rendering graphics for video games",
+      "Controlling the computer’s basic operations and boot process",
+      "Storing and accessing data quickly"
+    ],
+    "rightAns": "Controlling the computer’s basic operations and boot process",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "3",
+    "question": "Which group is only input devices?",
+    "options": [
+      "Mouse, Monitor, Joystick",
+      "Mouse, Microphone, Speaker",
+      "Keyboard, Printer, Light Pen",
+      "Joystick, Microphone, Scanner"
+    ],
+    "rightAns": "Keyboard, Printer, Light Pen",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "4",
+    "question": "Which of the following is NOT a component of computer hardware?",
+    "options": ["Keyboard", "Software", "Monitor", "Motherboard"],
+    "rightAns": "Software",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "5",
+    "question": "The most common device that accepts letters, numbers and command from a user is",
+    "options": ["Optical Mouse", "Keyboard", "Touch Screen", "USB"],
+    "rightAns": "Keyboard",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "6",
+    "question": "Computers that control processes and accept data in a continuous",
+    "options": [
+      "Infinite loop",
+      "Feedback loop",
+      "Data highway",
+      "Data traffic pattern"
+    ],
+    "rightAns": "Feedback loop",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "7",
+    "question": "Full form of OMR in source data entry is",
+    "options": [
+      "Open Mark Recognition",
+      "Open Message Recognition",
+      "Optical Mark Recognition",
+      "Optical Message Reader"
+    ],
+    "rightAns": "Optical Mark Recognition",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "8",
+    "question": "What is the primary purpose of the Network Interface Card (NIC)?",
+    "options": [
+      "To increase the computer’s processing speed",
+      "To render graphics for video games",
+      "To provide internet connectivity and enable network communication",
+      "To store and access data quickly"
+    ],
+    "rightAns": "To provide internet connectivity and enable network communication",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "9",
+    "question": "The place where accessories are connected in a computer is known as",
+    "options": ["Port", "Bus", "Plug", "Switch"],
+    "rightAns": "Port",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "10",
+    "question": "What is the purpose of cache memory in a computer?",
+    "options": [
+      "To store frequently accessed data for faster retrieval by the CPU",
+      "To display images and videos on the monitor",
+      "To connect the computer to a wireless network",
+      "To provide extra storage space for files and applications"
+    ],
+    "rightAns": "To store frequently accessed data for faster retrieval by the CPU",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "11",
+    "question": "From what location are the 1st computer instructions available on boot up?",
+    "options": ["boot.ini", "CONFIG.SYS", "ROM BIOS", "CPU"],
+    "rightAns": "ROM BIOS",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "12",
+    "question": "IEEE 1392 port is otherwise called ______.",
+    "options": ["Ethernet", "LPT", "USB", "Firewire"],
+    "rightAns": "Firewire",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "13",
+    "question": "What happens when you delete a file from a Solid-State Drive (SSD)?",
+    "options": [
+      "The file is permanently erased and cannot be recovered",
+      "The file is moved to a temporary folder and can be restored if needed",
+      "The file is transferred to the computer’s Random Access Memory (RAM)",
+      "The file is moved to the computer’s Hard Disk Drive (HDD)"
+    ],
+    "rightAns": "The file is permanently erased and cannot be recovered",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "14",
+    "question": "Devices such as mercury thermometer and kitchen scales are classified as",
+    "options": [
+      "Digital devices",
+      "Analog devices",
+      "Programmable devices",
+      "Signaling devices"
+    ],
+    "rightAns": "Analog devices",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "15",
+    "question": "The device that produces hard copies on paper is called ______.",
+    "options": ["monitor", "scanner", "tablet", "printer"],
+    "rightAns": "printer",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "16",
+    "question": "Which component of a computer is responsible for converting alternating current (AC) to direct current (DC) to power the computer’s components?",
+    "options": [
+      "Power Supply Unit (PSU)",
+      "Graphics Processing Unit (GPU)",
+      "Network Interface Card (NIC)",
+      "Central Processing Unit (CPU)"
+    ],
+    "rightAns": "Power Supply Unit (PSU)",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "17",
+    "question": "External devices/peripherals such as keyboard and mouse can be connected to a computer using ______ ports.",
+    "options": ["PS/2", "USB", "both a & b", "neither a nor b"],
+    "rightAns": "both a & b",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "18",
+    "question": "The device primarily used to provide hardcopy is the",
+    "options": ["CRT", "Computer Console", "Printer", "Card Reader"],
+    "rightAns": "Printer",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "19",
+    "question": "What is the role of the Graphics Processing Unit (GPU) in a computer?",
+    "options": [
+      "Executing instructions and processing data",
+      "Providing internet connectivity",
+      "Rendering images, videos, and animations",
+      "Storing and accessing data quickly"
+    ],
+    "rightAns": "Rendering images, videos, and animations",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "20",
+    "question": "9-pin female connector on the back of your computer will typically be _______",
+    "options": ["A parallel port", "Serial port", "Docking", "COM2 port"],
+    "rightAns": "Serial port",
+    "category": "computer",
+    "day": "1"
+  },
+  {
+    "id": "21",
+    "question": "HDMI stands for ______.",
+    "options": [
+      "Registered Jack 11",
+      "High Definition Multimedia Interface",
+      "Line Printer Terminal",
+      "Universal Serial Bus"
+    ],
+    "rightAns": "High Definition Multimedia Interface",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "22",
+    "question": "What is the purpose of the Power Supply Unit (PSU) in a computer?",
+    "options": [
+      "Providing internet connectivity",
+      "Rendering graphics for video games",
+      "Supplying power to all the components in the computer",
+      "Storing data and applications"
+    ],
+    "rightAns": "Supplying power to all the components in the computer",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "23",
+    "question": "MS Office, Photoshop are examples of",
+    "options": [
+      "System software",
+      "Operating system",
+      "Application software",
+      "Device driver"
+    ],
+    "rightAns": "Application software",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "24",
+    "question": "An input device is",
+    "options": ["Monitor", "Printer", "Scanner", "Plotter"],
+    "rightAns": "Scanner",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "25",
+    "question": "What type of memory is lost when the computer is turned off?",
+    "options": [
+      "Read-Only Memory (ROM)",
+      "Hard Disk Drive (HDD)",
+      "Random Access Memory (RAM)",
+      "Solid-State Drive (SSD)"
+    ],
+    "rightAns": "Random Access Memory (RAM)",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "26",
+    "question": "USB stands for ______.",
+    "options": [
+      "Registered Jack 11",
+      "Registered Jack 45",
+      "Line Printer Terminal",
+      "Universal Serial Bus"
+    ],
+    "rightAns": "Universal Serial Bus",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "27",
+    "question": "The ALU unit of a computer",
+    "options": [
+      "Can perform addition, subtraction operations",
+      "Can perform all types of arithmetic operations",
+      "Can perform AND, OR and multiplication operations",
+      "Contains number of counters"
+    ],
+    "rightAns": "Can perform all types of arithmetic operations",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "28",
+    "question": "Which storage device provides permanent storage for data, applications, and the operating system?",
+    "options": [
+      "Random Access Memory (RAM)",
+      "Hard Disk Drive (HDD)",
+      "Central Processing Unit (CPU)",
+      "Graphics Processing Unit (GPU)"
+    ],
+    "rightAns": "Hard Disk Drive (HDD)",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "29",
+    "question": "A joystick is primarily used for",
+    "options": [
+      "Control sound on the screen",
+      "Computer gaming",
+      "Enter text",
+      "Draw pictures"
+    ],
+    "rightAns": "Computer gaming",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "30",
+    "question": "Which storage device uses magnetic storage to store data?",
+    "options": [
+      "Solid-State Drive (SSD)",
+      "Optical Drive",
+      "Random Access Memory (RAM)",
+      "Hard Disk Drive (HDD)"
+    ],
+    "rightAns": "Hard Disk Drive (HDD)",
+    "category": "computer",
+    "day": "3"
+  },
+  {
+    "id": "31",
+    "question": "RAM stands for",
+    "options": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Read Arithmetic Memory",
+      "Random Arithmetic Memory"
+    ],
+    "rightAns": "Random Access Memory",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "32",
+    "question": "Which peripheral port provides the Fastest throughput to laser printers?",
+    "options": ["Serial", "Parallel", "SCSI", "RS-232"],
+    "rightAns": "Parallel",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "33",
+    "question": "A region of computer memory where frequently accessed data can be stored for rapid access is called",
+    "options": ["Token", "Cache", "Cookie", "Plug-in"],
+    "rightAns": "Cache",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "34",
+    "question": "What is another name for a dot matrix printer?",
+    "options": [
+      "Page printer",
+      "Spray printer",
+      "Impact printer",
+      "Line printer"
+    ],
+    "rightAns": "Impact printer",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "35",
+    "question": "Most PCs give a single beep on bootup to indicate they are ok hardware wise. You boot your PC and don’t get a beep. What should you check first?",
+    "options": ["System board", "RAM", "Microprocessor", "Speaker"],
+    "rightAns": "Speaker",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "36",
+    "question": "Assembly language programs are written using",
+    "options": ["Hex code", "Mnenonics", "ASCII code", "None of these"],
+    "rightAns": "Mnenonics",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "37",
+    "question": "Peripheral devices such as printers and monitors are considered to be",
+    "options": ["Information", "Data", "Software", "Hardware"],
+    "rightAns": "Hardware",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "38",
+    "question": "What type of memory is used for temporary storage of data that the CPU needs to access quickly?",
+    "options": [
+      "Read-Only Memory (ROM)",
+      "Hard Disk Drive (HDD)",
+      "Random Access Memory (RAM)",
+      "Solid-State Drive (SSD)"
+    ],
+    "rightAns": "Random Access Memory (RAM)",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "39",
+    "question": "What is a device connecting a network without using a cable?",
+    "options": ["Distributed", "Wireless", "Centralized", "Open source"],
+    "rightAns": "Wireless",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "40",
+    "question": "Which component of the computer is responsible for executing instructions and performing calculations?",
+    "options": [
+      "Network Interface Card (NIC)",
+      "Central Processing Unit (CPU)",
+      "Graphics Processing Unit (GPU)",
+      "Random Access Memory (RAM)"
+    ],
+    "rightAns": "Central Processing Unit (CPU)",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "41",
+    "question": "Audio input, microphone and speaker output can be connected to computer using _____.",
+    "options": ["3.5mm jack", "RJ11", "RJ45", "LPT"],
+    "rightAns": "3.5mm jack",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "42",
+    "question": "A program that provides software interface to hardware devices is called",
+    "options": [
+      "System software",
+      "Application software",
+      "Driver software",
+      "All of these"
+    ],
+    "rightAns": "Driver software",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "43",
+    "question": "Which of the following is NOT hardware of a computer?",
+    "options": ["Central processing unit", "Windows", "Keyboard", "Monitor"],
+    "rightAns": "Windows",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "44",
+    "question": "What does the acronym “HDD” stand for in computer hardware?",
+    "options": [
+      "Hard Disk Drive",
+      "High Definition Display",
+      "Hardware Design Diagram",
+      "Hybrid Data Drive"
+    ],
+    "rightAns": "Hard Disk Drive",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "45",
+    "question": "The other name of a motherboard is",
+    "options": ["Central Board", "System Board", "Computer Board", "Mouse"],
+    "rightAns": "System Board",
+    "category": "computer",
+    "day": "4"
+  },
+  {
+    "id": "46",
+    "question": "All the processing work of computer takes place in ______.",
+    "options": [
+      "input unit",
+      "Central Processing Unit (CPU)",
+      "output unit",
+      "all of them"
+    ],
+    "rightAns": "Central Processing Unit (CPU)",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "47",
+    "question": "A ___ is used to read handwritten or printed text to make a digital image that is stored in memory.",
+    "options": ["Touch pad", "Laser beam", "Printer", "Scanner"],
+    "rightAns": "Scanner",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "48",
+    "question": "What is the purpose of the “Explore” feature in computer hardware?",
+    "options": [
+      "To browse the internet for hardware components",
+      "To automatically detect and fix hardware issues",
+      "To extend the functionality of computer hardware",
+      "To help users find information and images related to computer hardware"
+    ],
+    "rightAns": "To extend the functionality of computer hardware",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "49",
+    "question": "The hardware device commonly referred to as the Brain of the computer",
+    "options": ["Secondary storage", "CPU", "Data input", "RAM chip"],
+    "rightAns": "CPU",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "50",
+    "question": "What happens to data stored in Random Access Memory (RAM) when the computer is shut down?",
+    "options": [
+      "The data is permanently deleted",
+      "The data is saved to the hard disk drive",
+      "The data is stored in Read-Only Memory (ROM)",
+      "The data is lost and no longer accessible"
+    ],
+    "rightAns": "The data is lost and no longer accessible",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "51",
+    "question": "Printer, fax machine, scanner, web camera, external DVD writer, external hard disk, etc. can be connected to computer using ______ port.",
+    "options": ["RJ45", "USB", "PS/2", "VGA"],
+    "rightAns": "USB",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "52",
+    "question": "What are expansion cards used for in a computer?",
+    "options": [
+      "Providing power to the CPU",
+      "Increasing the storage capacity of the computer",
+      "Adding extra functionalities to the computer",
+      "Cooling the computer components"
+    ],
+    "rightAns": "Adding extra functionalities to the computer",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "53",
+    "question": "PS/2 using in Computer stands for ______.",
+    "options": [
+      "Registered Jack 11",
+      "Registered Jack 45",
+      "Personal System 2",
+      "Recommended Standard 232"
+    ],
+    "rightAns": "Personal System 2",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "54",
+    "question": "Which storage device uses non-volatile memory to store data even when the computer is turned off?",
+    "options": [
+      "Hard Disk Drive (HDD)",
+      "Random Access Memory (RAM)",
+      "Solid-State Drive (SSD)",
+      "Optical Drive"
+    ],
+    "rightAns": "Solid-State Drive (SSD)",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "55",
+    "question": "What is the number of read write heads in the drive for a 9 track magnetic tape?",
+    "options": ["9", "16", "18", "27"],
+    "rightAns": "9",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "56",
+    "question": "Which component allows the computer to connect to a network and access the internet?",
+    "options": [
+      "Central Processing Unit (CPU)",
+      "Graphics Processing Unit (GPU)",
+      "Network Interface Card (NIC)",
+      "Random Access Memory (RAM)"
+    ],
+    "rightAns": "Network Interface Card (NIC)",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "57",
+    "question": "Through what hardware does one person speak to the other person on a video conference?",
+    "options": ["Speaker", "Monitor", "Microphone", "Camera"],
+    "rightAns": "Microphone",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "58",
+    "question": "Which component is responsible for storing permanent data and applications on a computer?",
+    "options": [
+      "Graphics Processing Unit (GPU)",
+      "Central Processing Unit (CPU)",
+      "Random Access Memory (RAM)",
+      "Hard Disk Drive (HDD)"
+    ],
+    "rightAns": "Hard Disk Drive (HDD)",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "59",
+    "question": "Which device allows you to view the output of a computer’s processing?",
+    "options": [
+      "Keyboard",
+      "Monitor",
+      "Network Interface Card (NIC)",
+      "Power Supply Unit (PSU)"
+    ],
+    "rightAns": "Monitor",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "60",
+    "question": "The 1’s complement of 10 is",
+    "options": ["01", "10", "11", "110"],
+    "rightAns": "01",
+    "category": "computer",
+    "day": "5"
+  },
+  {
+    "id": "61",
+    "question": "Which of the following are examples of pointing devices?",
+    "options": [
+      "Mouse, trackball",
+      "Joystick, light pen",
+      "Touch screen",
+      "All of these"
+    ],
+    "rightAns": "All of these",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "62",
+    "question": "Which of the following is not a type of mouse?",
+    "options": [
+      "Wireless mouse",
+      "Optical mouse",
+      "Mechanical mouse",
+      "Electromechanical mouse"
+    ],
+    "rightAns": "Electromechanical mouse",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "63",
+    "question": "Which of the keys are also known as modifier keys?",
+    "options": ["Shift", "Ctrl", "Alt", "All the above"],
+    "rightAns": "All the above",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "64",
+    "question": "RS232/serial stands for _____.",
+    "options": [
+      "Registered Jack 11",
+      "Registered Jack 45",
+      "Personal System 2",
+      "Recommended Standard 232"
+    ],
+    "rightAns": "Recommended Standard 232",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "65",
+    "question": "A computer has ______.",
+    "options": [
+      "Input unit",
+      "Central Processing Unit (CPU)",
+      "Output unit",
+      "All of them"
+    ],
+    "rightAns": "All of them",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "66",
+    "question": "What do cooling systems in a computer prevent?",
+    "options": [
+      "Data loss due to power failure",
+      "Dust and debris from entering the computer",
+      "Overheating of computer components",
+      "Accidental spills on the computer"
+    ],
+    "rightAns": "Overheating of computer components",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "67",
+    "question": "Monitor is connected to a computer using ______ port.",
+    "options": [
+      "RS232/serial",
+      "PS/2",
+      "VGA (Video Graphics Array)",
+      "LPT (Line printer Terminal)"
+    ],
+    "rightAns": "VGA (Video Graphics Array)",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "68",
+    "question": "Which component of CPU controls input/output devices, generate control signals to the other components of the computer such as read and write signals, and performs the execution of instruction?",
+    "options": ["ALU", "Accumulator", "Control Unit", "Both a and c"],
+    "rightAns": "Control Unit",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "69",
+    "question": "The most common buses inside the microcomputer are",
+    "options": [
+      "Address bus",
+      "Address bus and Data bus",
+      "Address bus and Control bus",
+      "Address bus, Data bus, and Control bus"
+    ],
+    "rightAns": "Address bus, Data bus, and Control bus",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "70",
+    "question": "Which bus is used to carry data to and from the memory?",
+    "options": ["Address bus", "Data bus", "Control bus", "None of these"],
+    "rightAns": "Data bus",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "71",
+    "question": "Which provides the fastest data access time?",
+    "options": ["RAM", "ROM", "CD-ROM", "Hard disk"],
+    "rightAns": "RAM",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "72",
+    "question": "External devices such as printers, keyboards and modems are known as",
+    "options": [
+      "Add on devices",
+      "PC expansion",
+      "Peripherals",
+      "Special buys"
+    ],
+    "rightAns": "Peripherals",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "73",
+    "question": "RJ45 port is also called ______.",
+    "options": ["Ethernet", "LPT", "USB", "VGA"],
+    "rightAns": "Ethernet",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "74",
+    "question": "Which of the following is not hardware?",
+    "options": ["Processor chip", "Printer", "Mouse", "Java"],
+    "rightAns": "Java",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "75",
+    "question": "What is the function of optical drives in a computer?",
+    "options": [
+      "Providing internet connectivity",
+      "Storing and accessing data quickly",
+      "Reading and writing data from optical discs",
+      "Rendering graphics for video games"
+    ],
+    "rightAns": "Reading and writing data from optical discs",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "76",
+    "question": "Which of the following are the predominant manufacturers for desktop and laptop processors?",
+    "options": [
+      "Intel",
+      "AMD (Advanced Micro Devices)",
+      "Motorola",
+      "Both a and b"
+    ],
+    "rightAns": "Both a and b",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "77",
+    "question": "Which of the following is temporary storage used to hold data that is used for arithmetic and logical operations and storing its results?",
+    "options": [
+      "ALU",
+      "PC (Program counter)",
+      "Accumulator",
+      "IR (Instruction Register)"
+    ],
+    "rightAns": "Accumulator",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "78",
+    "question": "Which of the following is a permanent storage location within the CPU used to hold a binary value temporarily for manipulation, and/or for simple calculations?",
+    "options": ["Main memory", "Secondary memory", "Register", "Both a and b"],
+    "rightAns": "Register",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "79",
+    "question": "Data moves in and out of the CPU through embedded wires called",
+    "options": ["Bus", "Electronic wires", "Lines", "Cables"],
+    "rightAns": "Bus",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "80",
+    "question": "Which key is used to indent a paragraph?",
+    "options": ["Spacebar", "Tab", "Shift", "None of these"],
+    "rightAns": "Tab",
+    "category": "computer",
+    "day": "6"
+  },
+  {
+    "id": "81",
+    "question": "Which key is used to open the Start menu?",
+    "options": ["Windows", "Alt", "Ctrl + Alt", "None of these"],
+    "rightAns": "Windows",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "82",
+    "question": "Which key is used to erase data from the computer’s memory and characters on the screen?",
+    "options": ["Backspace", "Delete", "Shift + Alt", "Both a and b"],
+    "rightAns": "Both a and b",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "83",
+    "question": "The first computer architecture was designed in",
+    "options": ["1970", "1985", "1968", "1975"],
+    "rightAns": "1968",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "84",
+    "question": "Which bus is used to connect external devices?",
+    "options": ["Address", "Data", "Control", "External"],
+    "rightAns": "External",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "85",
+    "question": "Which of the following is not an integral part of the computer system?",
+    "options": ["CPU", "Mouse", "Monitor", "UPS"],
+    "rightAns": "UPS",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "86",
+    "question": "Which of the following device provides surge protection and battery backup power during a power outage?",
+    "options": ["Battery strip", "Surge strip", "UPS", "USB"],
+    "rightAns": "UPS",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "87",
+    "question": "Which of the following is a temporary storage location attached to CPU for input and output operations?",
+    "options": ["Memory chip", "Register", "Buffer", "Core"],
+    "rightAns": "Buffer",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "88",
+    "question": "Which of the following is used to measure the speed of the CPU (processor)?",
+    "options": ["Processing speed", "Unit", "Coprocessor", "Clock speed"],
+    "rightAns": "Clock speed",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "89",
+    "question": "A uniform interval of CPU time allocated for performing a task is called",
+    "options": ["Real time", "Seek time", "Time slice", "Unit time"],
+    "rightAns": "Time slice",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "90",
+    "question": "What is the full form of DMA?",
+    "options": [
+      "Direct memory access",
+      "Dynamic memory access",
+      "Double memory access",
+      "None of these"
+    ],
+    "rightAns": "Direct memory access",
+    "category": "computer",
+    "day": "8"
+  },
+  {
+    "id": "91",
+    "question": "The keyboard keys like Caps lock that turn on features on or off are called",
+    "options": [
+      "Special Purpose Keys",
+      "Function Keys",
+      "Toggle Keys",
+      "Number Keys"
+    ],
+    "rightAns": "Toggle Keys",
+    "category": "computer",
+    "day": "8"
+  }
+]

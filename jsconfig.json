@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "es6"
+  },
+  "include": ["src/**/*.js", "src/pages/quizs/index.jsx"]
+}
